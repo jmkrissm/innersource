@@ -1,4 +1,4 @@
-## Managing Projects 
+## Managing Projects internally
 
 Repositories aren't just a place to upload code - they're a place to collaborate and work together. Depending on how you choose to manage projects, that process should be as transparent and integrated as possible. 
 
